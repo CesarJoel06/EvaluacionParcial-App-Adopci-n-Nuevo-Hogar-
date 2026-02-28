@@ -1,29 +1,64 @@
+# Nuevo Hogar — App de Adopción 🐾
 
-📌 **Nota para el repo:** crea esta carpeta y pega ahí las imágenes:
-`docs/images/`
-
----
-
-## 7) Imágenes generadas (listas para tu README + un asset)
-Descarga y súbelas a tu repo (por ejemplo a `docs/images/`):
-
-- App terminada (con título):  
-  [Descargar 01_final_app.png](sandbox:/mnt/data/nuevo_hogar_assets/01_final_app.png)
-
-- Plantilla blanca (con título):  
-  [Descargar 02_plantilla_blanca.png](sandbox:/mnt/data/nuevo_hogar_assets/02_plantilla_blanca.png)
-
-- Plantilla turquesa (con título):  
-  [Descargar 03_plantilla_turquesa.png](sandbox:/mnt/data/nuevo_hogar_assets/03_plantilla_turquesa.png)
-
-Versiones “solo pantalla” (mejor para README):
-- [final_screen.png](sandbox:/mnt/data/nuevo_hogar_assets/final_screen.png)  
-- [template_white_screen.png](sandbox:/mnt/data/nuevo_hogar_assets/template_white_screen.png)  
-- [template_turquoise_screen.png](sandbox:/mnt/data/nuevo_hogar_assets/template_turquoise_screen.png)
-
-Asset de mascota para `assets/`:
-- [pet_luna_asset.png](sandbox:/mnt/data/nuevo_hogar_assets/pet_luna_asset.png)
+## Descripción
+**Nuevo Hogar** es una app de adopción que muestra la ficha de una mascota (imagen, nombre y edad),
+permite ingresar el **nombre del adoptante**, asignar una **puntuación (1–5)** y visualizarla con una
+**barra de progreso**. Incluye dos acciones principales: **Adoptar** y **Contactar**.
 
 ---
 
-Si quieres, en el siguiente mensaje te lo dejo también como **checklist de entrega** (para que no se te pase ningún punto de la rúbrica) y una **justificación más “académica”** de por qué elegiste cada color/tamaño (tipografía, jerarquía visual, accesibilidad).
+## Capturas
+
+### App terminada (pantalla final)
+- Se reemplazó la imagen por una mascota distinta.
+- Se ajustaron tamaños y colores de texto para jerarquía visual.
+- El rating se controla con estrellas y se refleja en una barra de progreso.
+- Botones con color de fondo y color de texto personalizados.
+
+![App final](docs/images/final_screen.png)
+
+### Plantilla blanca (base de construcción)
+- Placeholder de imagen.
+- Estilos neutros antes de aplicar la paleta final.
+
+![Plantilla blanca](docs/images/template_white_screen.png)
+
+### Plantilla turquesa (maqueta)
+- Variante de maqueta con acento turquesa para el estilo de la app.
+
+![Plantilla turquesa](docs/images/template_turquoise_screen.png)
+
+---
+
+## Elementos requeridos y atributos usados
+
+### 1) Imagen
+- `Image.asset`
+- `BoxDecoration` con `borderRadius` y `boxShadow`
+- `fit: BoxFit.cover`
+
+### 2) Textos
+- `TextStyle(fontSize, fontWeight, color)`
+- Nombre con tamaño mayor (jerarquía)
+- Edad con color gris (secundario)
+
+### 3) Input
+- `TextField` con `controller`
+- `InputDecoration` con subrayado (Underline)
+- Borde enfocado en turquesa
+
+### 4) Widget (rating + barra)
+- Estrellas con `Icons.star / star_border`
+- `LinearProgressIndicator(value: rating/5)`
+
+### 5) Botones
+- `ElevatedButton`
+- `backgroundColor` y `foregroundColor`
+- `borderRadius` para estilo moderno
+
+---
+
+## Cómo ejecutar (VS Code)
+```bash
+flutter pub get
+flutter run
