@@ -21,7 +21,8 @@ La vista final mantiene el orden de elementos y aplica una paleta moderna: texto
 ## Imagen de la plantilla blanca (base de construcción)
 **(Coloca aquí tu captura de la plantilla blanca)**
 
-<img width="797" height="478" alt="Captura de pantalla 2026-02-27 a las 21 39 44" src="https://github.com/user-attachments/assets/9b585ef6-4f43-47f0-8dfa-61d2f6bacbfd" />
+<img width="1285" height="792" alt="Captura de pantalla 2026-03-01 a las 14 09 22" src="https://github.com/user-attachments/assets/3d0e0966-67d8-4c15-945b-1262039df49e" />
+
 
 **Explicación breve:**  
 La plantilla blanca representa la estructura inicial sin énfasis de color. Sirve como base para posicionar y alinear correctamente todos los elementos (imagen, textos, input, widget y botones) antes de aplicar estilos visuales finales.
@@ -120,17 +121,6 @@ El rating se entiende rápido con estrellas y la barra refuerza visualmente el p
 
 **Sustento:**  
 Se diferenció la acción principal (Adoptar) con color de acento y la secundaria (Contactar) con un tono oscuro. Esto guía al usuario a la acción más importante.
-
----
-
-## Estructura de carpetas sugerida para el README (imágenes)
-Guarda tus capturas en:
-
-- `docs/images/final.png`
-- `docs/images/plantilla_blanca.png`
-- `docs/images/plantilla_turquesa.png`
-
-Luego el README las mostrará automáticamente con los enlaces de arriba.
 
 ---
 
