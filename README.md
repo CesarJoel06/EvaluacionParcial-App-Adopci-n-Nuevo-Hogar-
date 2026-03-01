@@ -51,8 +51,8 @@ La plantilla turquesa funciona como maqueta visual del estilo. Se utiliza un col
 - `app:cardCornerRadius="18dp"`: bordes redondeados para estilo moderno.
 - `app:cardElevation="10dp"`: sombra para profundidad visual (efecto tarjeta).
 
-**Sustento:**  
-La imagen es el elemento principal de la ficha, por eso se coloca arriba y con formato tipo tarjeta para atraer la atención primero.
+<img width="722" height="761" alt="Captura de pantalla 2026-03-01 a las 14 13 14" src="https://github.com/user-attachments/assets/a05e51f0-674c-47ae-a190-e7ac1a622a05" />
+
 
 ---
 
@@ -69,8 +69,7 @@ La imagen es el elemento principal de la ficha, por eso se coloca arriba y con f
   - `android:textSize="22sp"`: menor jerarquía.
   - `android:textColor="#5B5B5B"`: color secundario (gris) para diferenciar del nombre.
 
-**Sustento:**  
-Se aplicó jerarquía tipográfica: lo más importante (nombre) se ve primero y más fuerte; lo secundario (edad) acompaña sin competir.
+<img width="948" height="760" alt="Captura de pantalla 2026-03-01 a las 14 13 40" src="https://github.com/user-attachments/assets/1d68d4ba-4927-426f-81fb-1ae69914db3c" />
 
 ---
 
@@ -119,14 +118,6 @@ El rating se entiende rápido con estrellas y la barra refuerza visualmente el p
 - `app:cornerRadius="18dp"`: botones redondeados (estética moderna).
 - `android:elevation="8dp"`: sombra para efecto “clickable” y profundidad.
 
-**Sustento:**  
-Se diferenció la acción principal (Adoptar) con color de acento y la secundaria (Contactar) con un tono oscuro. Esto guía al usuario a la acción más importante.
+<img width="967" height="769" alt="Captura de pantalla 2026-03-01 a las 14 14 16" src="https://github.com/user-attachments/assets/836099db-b1bb-4579-adfc-f36cb5abcff9" />
 
 ---
-
-## Nota final
-La interfaz fue desarrollada priorizando:
-- orden visual (de arriba hacia abajo),
-- jerarquía tipográfica,
-- consistencia de color (turquesa como acento),
-- componentes con bordes redondeados y sombras para un estilo moderno.
