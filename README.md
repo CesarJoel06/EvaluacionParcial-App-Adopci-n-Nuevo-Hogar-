@@ -11,7 +11,7 @@ Este proyecto prioriza el **diseño UI** (orden, jerarquía visual, colores, tam
 ## Imagen final de la app terminada
 **(Coloca aquí tu captura final)**
 
-<img width="333" height="587" alt="Captura de pantalla 2026-03-01 a las 14 04 13" src="https://github.com/user-attachments/assets/992bfc40-4acd-4166-be27-9e799154c595" />
+<img width="555" height="592" alt="Captura de pantalla 2026-03-01 a las 14 34 05" src="https://github.com/user-attachments/assets/29b6ad3a-b20e-47b6-ba0b-f1b829b9d489" />
 
 **Explicación breve:**  
 La vista final mantiene el orden de elementos y aplica una paleta moderna: textos con jerarquía (nombre más destacado), widget con color personalizado y botones con colores diferenciados para acción principal y secundaria, incluyendo bordes redondeados y sombras para profundidad visual.
