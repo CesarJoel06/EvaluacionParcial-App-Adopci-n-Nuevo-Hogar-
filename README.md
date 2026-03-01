@@ -10,8 +10,9 @@ Este proyecto prioriza el **diseño UI** (orden, jerarquía visual, colores, tam
 
 ## Imagen final de la app terminada
 **(Coloca aquí tu captura final)**
+<img width="595" height="661" alt="Captura de pantalla 2026-03-01 a las 14 42 17" src="https://github.com/user-attachments/assets/bc142b44-d3b0-4f15-894d-351d7386779a" />
 
-<img width="555" height="592" alt="Captura de pantalla 2026-03-01 a las 14 34 05" src="https://github.com/user-attachments/assets/29b6ad3a-b20e-47b6-ba0b-f1b829b9d489" />
+
 
 **Explicación breve:**  
 La vista final mantiene el orden de elementos y aplica una paleta moderna: textos con jerarquía (nombre más destacado), widget con color personalizado y botones con colores diferenciados para acción principal y secundaria, incluyendo bordes redondeados y sombras para profundidad visual.
@@ -23,8 +24,7 @@ La vista final mantiene el orden de elementos y aplica una paleta moderna: texto
 
 <img width="1285" height="792" alt="Captura de pantalla 2026-03-01 a las 14 09 22" src="https://github.com/user-attachments/assets/3d0e0966-67d8-4c15-945b-1262039df49e" />
 
-
-**Explicación breve:**  
+ 
 La plantilla blanca representa la estructura inicial sin énfasis de color. Sirve como base para posicionar y alinear correctamente todos los elementos (imagen, textos, input, widget y botones) antes de aplicar estilos visuales finales.
 
 ---
@@ -51,8 +51,7 @@ La plantilla turquesa funciona como maqueta visual del estilo. Se utiliza un col
 - `app:cardCornerRadius="18dp"`: bordes redondeados para estilo moderno.
 - `app:cardElevation="10dp"`: sombra para profundidad visual (efecto tarjeta).
 
-<img width="722" height="761" alt="Captura de pantalla 2026-03-01 a las 14 13 14" src="https://github.com/user-attachments/assets/a05e51f0-674c-47ae-a190-e7ac1a622a05" />
-
+<img width="787" height="676" alt="Captura de pantalla 2026-03-01 a las 14 41 06" src="https://github.com/user-attachments/assets/e35a906c-811f-4a9d-bb55-0f926f290184" />
 
 ---
 
@@ -69,8 +68,7 @@ La plantilla turquesa funciona como maqueta visual del estilo. Se utiliza un col
   - `android:textSize="22sp"`: menor jerarquía.
   - `android:textColor="#5B5B5B"`: color secundario (gris) para diferenciar del nombre.
 
-<img width="948" height="760" alt="Captura de pantalla 2026-03-01 a las 14 13 40" src="https://github.com/user-attachments/assets/1d68d4ba-4927-426f-81fb-1ae69914db3c" />
-
+<img width="790" height="633" alt="Captura de pantalla 2026-03-01 a las 14 40 38" src="https://github.com/user-attachments/assets/1d245bd8-51f8-414b-9a5e-44979bf69a97" />
 ---
 
 ## 3) Input
@@ -82,8 +80,9 @@ La plantilla turquesa funciona como maqueta visual del estilo. Se utiliza un col
 - `android:textSize="18sp"`: tamaño legible y consistente.
 - `android:backgroundTint="#009688"`: color de acento en el subrayado (estilo moderno).
 
-**Sustento:**  
-El input se coloca después de ver la mascota para que el usuario registre su dato con claridad en un solo paso, sin recargar la pantalla.
+
+
+<img width="787" height="648" alt="Captura de pantalla 2026-03-01 a las 14 40 16" src="https://github.com/user-attachments/assets/33ef25ea-7e4c-44d4-a982-f7e887f2b056" />
 
 ---
 
@@ -101,10 +100,9 @@ El input se coloca después de ver la mascota para que el usuario registre su da
   - `android:backgroundTint="#DADADA"`: contraste con el fondo.
   - `android:progress="80"` y `android:max="100"`: representación simple del estado.
 
-**Sustento:**  
-El rating se entiende rápido con estrellas y la barra refuerza visualmente el puntaje (lectura inmediata incluso sin contar estrellas).
 
----
+--<img width="779" height="657" alt="Captura de pantalla 2026-03-01 a las 14 39 58" src="https://github.com/user-attachments/assets/f52ab89a-e50e-4bc7-adc7-6ff50af2a22f" />
+-
 
 ## 5) Botones
 **Elemento usado:** `MaterialButton` (Adoptar / Contactar)
@@ -118,6 +116,6 @@ El rating se entiende rápido con estrellas y la barra refuerza visualmente el p
 - `app:cornerRadius="18dp"`: botones redondeados (estética moderna).
 - `android:elevation="8dp"`: sombra para efecto “clickable” y profundidad.
 
-<img width="967" height="769" alt="Captura de pantalla 2026-03-01 a las 14 14 16" src="https://github.com/user-attachments/assets/836099db-b1bb-4579-adfc-f36cb5abcff9" />
+<img width="782" height="663" alt="Captura de pantalla 2026-03-01 a las 14 41 26" src="https://github.com/user-attachments/assets/d03ca7d2-b93b-40ae-8510-0f1296349af6" />
 
 ---
