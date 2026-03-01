@@ -11,7 +11,7 @@ Este proyecto prioriza el **diseño UI** (orden, jerarquía visual, colores, tam
 ## Imagen final de la app terminada
 **(Coloca aquí tu captura final)**
 
-![App final](docs/images/final.png)
+<img width="333" height="587" alt="Captura de pantalla 2026-03-01 a las 14 04 13" src="https://github.com/user-attachments/assets/992bfc40-4acd-4166-be27-9e799154c595" />
 
 **Explicación breve:**  
 La vista final mantiene el orden de elementos y aplica una paleta moderna: textos con jerarquía (nombre más destacado), widget con color personalizado y botones con colores diferenciados para acción principal y secundaria, incluyendo bordes redondeados y sombras para profundidad visual.
@@ -21,7 +21,7 @@ La vista final mantiene el orden de elementos y aplica una paleta moderna: texto
 ## Imagen de la plantilla blanca (base de construcción)
 **(Coloca aquí tu captura de la plantilla blanca)**
 
-![Plantilla blanca](docs/images/plantilla_blanca.png)
+<img width="797" height="478" alt="Captura de pantalla 2026-02-27 a las 21 39 44" src="https://github.com/user-attachments/assets/9b585ef6-4f43-47f0-8dfa-61d2f6bacbfd" />
 
 **Explicación breve:**  
 La plantilla blanca representa la estructura inicial sin énfasis de color. Sirve como base para posicionar y alinear correctamente todos los elementos (imagen, textos, input, widget y botones) antes de aplicar estilos visuales finales.
@@ -31,7 +31,8 @@ La plantilla blanca representa la estructura inicial sin énfasis de color. Sirv
 ## Imagen de la plantilla turquesa (maqueta de la app)
 **(Coloca aquí tu captura de la plantilla turquesa)**
 
-![Plantilla turquesa](docs/images/plantilla_turquesa.png)
+<img width="341" height="598" alt="Captura de pantalla 2026-03-01 a las 14 03 28" src="https://github.com/user-attachments/assets/be331243-bf3a-40c8-af6b-ce545618d946" />
+
 
 **Explicación breve:**  
 La plantilla turquesa funciona como maqueta visual del estilo. Se utiliza un color de acento para reforzar el enfoque tecnológico/moderno, especialmente en elementos interactivos como la barra de progreso y componentes principales.
