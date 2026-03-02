@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pet_name">Luna</string>
+    <string name="pet_age">2 años</string>
+    <string name="adopter_hint">Nombre del adoptante</string>
+    <string name="btn_adopt">Adoptar</string>
+    <string name="btn_contact">Contactar</string>
+    <string name="pet_image_desc">Imagen de mascota</string>
+</resources>
